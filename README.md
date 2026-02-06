@@ -1,17 +1,28 @@
 # Digital Risk Case Analysis
 
-This repository contains practical case studies related to digital risk, phishing, fraud, and brand impersonation investigations.
+This repository contains practical case studies and research related to digital risk scenarios, including phishing, fraud, brand impersonation, and compliance impacts.
 
-The purpose of this project is to document analysis methodologies used to identify and evaluate online abuse scenarios, supporting learning and professional development in digital risk operations.
+The project aims to simulate real-world Digital Risk and Takedown Operations workflows, supporting professional development in online threat analysis and mitigation.
+
+## Project Goals
+- Develop practical investigation skills
+- Document threat analysis scenarios
+- Understand attacker behavior and abuse patterns
+- Support learning in digital risk and compliance contexts
 
 ## Repository Structure
-- Case analysis reports
-- Risk identification and assessment
-- Investigation methodology documentation
+- `/cases` → Practical threat investigation scenarios
+- `/methodology` → Analysis and investigation methods
+- `/compliance` → Regulatory and data protection risk analysis
 
-## Objective
-To develop practical skills in identifying and analyzing online threats such as phishing campaigns, fraudulent websites, and brand impersonation.
+## Topics Covered
+- Phishing campaigns
+- Fake online stores
+- Brand impersonation
+- Fraud operations
+- Digital risk mitigation
+- LGPD and GDPR risk scenarios
 
 ## Author
-Daniel Pedreira
+Daniel Parga  
 Cybersecurity & Digital Risk Research
